@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/league"
+        android:title="league"
+        android:icon="@drawable/bolla"
+        />
+    <item android:id="@+id/uefa"
+        android:title="UEFA"
+        android:icon="@drawable/kisspng_trophy_scalable_vector_graphics_award_computer_ico_cup_svg_png_icon_free_download_533341_onlinew_5b76400328cd30_9322295315344762911671" />
+
+</menu>
